@@ -1,0 +1,7 @@
+.ipynb_checkpoints/*
+bin/*
+ampl_linux-intel64/*
+*.o
+out.txt
+outLoc.txt
+figures/*
