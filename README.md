@@ -50,3 +50,4 @@ less likely to cause issues due to the amount of data.
 * Change the penalty inside Location.mod
 * Change max number of houses per hydrant in Location.mod
     * This is VERY memory intensive, and can make the program take a LONG time to terminate depending on your hardware
+* Look at different regions by determing latitude and longitude
