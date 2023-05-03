@@ -5,3 +5,4 @@ ampl_linux-intel64/*
 out.txt
 outLoc.txt
 figures/*
+originalFiles/houses.json
